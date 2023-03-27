@@ -14,7 +14,7 @@
 
 ####  💻 The frist ever Github python course releasing on 8th April 2023
 #### ✔️ Basic Python
-#### ✔️ No Video Voice Notes
+#### ✔️ No Videos. Only Voice Notes
 #### ✔️ Hand written notes
 #### ✔️ Everything Explained in code by using comment's 
 #### ✔️ FREE !!!!!!!!!!
