@@ -17,4 +17,5 @@
 #### ✔️ No Videos. Only Voice Notes
 #### ✔️ Hand written notes
 #### ✔️ Everything Explained in code by using comment's 
+#### ✔️ Challenges at the end of every file with solutions
 #### ✔️ FREE !!!!!!!!!!
